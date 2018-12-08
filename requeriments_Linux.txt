@@ -1,0 +1,4 @@
+pyautogui==0.9.38
+numpy==1.15.4
+Xlib==0.21
+pyscreenshot==0.4.2
